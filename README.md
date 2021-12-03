@@ -8,7 +8,7 @@ Un réseau social interne d'entreprise, moderne et ludique.
 
 ```bash
   Requirements: Node version 14
-  1. Nvm use 14.0 (npm)
+  1. Nvm use 14.0 
   2. Cd new-project (front)
   3. Npm Install
   4. Npm run serve
